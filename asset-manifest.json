@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/finalproject/static/css/main.5514087f.css",
+    "main.js": "/finalproject/static/js/main.7383a46f.js",
+    "static/media/carasol3.png": "/finalproject/static/media/carasol3.523b043c44392df21120.png",
+    "static/media/cardd2.png": "/finalproject/static/media/cardd2.29f6018209145081bf22.png",
+    "static/media/carasol1.png": "/finalproject/static/media/carasol1.53c5eed5e40405ccdc77.png",
+    "static/media/carasol2.png": "/finalproject/static/media/carasol2.79488dfd59f9b3fa8ed3.png",
+    "static/media/cardd1.png": "/finalproject/static/media/cardd1.1fbfd184708197d5fd00.png",
+    "static/media/tranding_img.png": "/finalproject/static/media/tranding_img.6bee14d5907d07b4a2d7.png",
+    "static/media/popup_img.jpg": "/finalproject/static/media/popup_img.ee24b0bba48e135b7f65.jpg",
+    "static/media/four.png": "/finalproject/static/media/four.c3bd584fe6f4ffaff81f.png",
+    "static/media/one.png": "/finalproject/static/media/one.8297e0365f9c93ff9b9f.png",
+    "static/media/three.png": "/finalproject/static/media/three.7f090902bcd95dee559b.png",
+    "static/media/product_img2.jpg": "/finalproject/static/media/product_img2.e05625aec0d9daa5b6db.jpg",
+    "static/media/two.png": "/finalproject/static/media/two.9e0c923bb0fdf9e7da56.png",
+    "static/media/product_img1.jpg": "/finalproject/static/media/product_img1.01f4e7c0fa5a1b7e5124.jpg",
+    "static/media/product_img3.jpg": "/finalproject/static/media/product_img3.2b9334588470d6a20fa9.jpg",
+    "static/media/dev2.png": "/finalproject/static/media/dev2.9cff7d865ff411663a2e.png",
+    "static/media/dev3.png": "/finalproject/static/media/dev3.1f57cc077b35c5e19c07.png",
+    "static/media/dev.png": "/finalproject/static/media/dev.917df739a42e401245dd.png",
+    "static/media/revicons.eot": "/finalproject/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/finalproject/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/finalproject/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/finalproject/index.html",
+    "main.5514087f.css.map": "/finalproject/static/css/main.5514087f.css.map",
+    "main.7383a46f.js.map": "/finalproject/static/js/main.7383a46f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5514087f.css",
+    "static/js/main.7383a46f.js"
+  ]
+}
